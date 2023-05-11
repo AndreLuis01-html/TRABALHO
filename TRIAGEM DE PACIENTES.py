@@ -1,5 +1,5 @@
 import time
-nome =input("DIGITE O SEU NOME:")
+nome =input("DIGITE O SEU NOME :")
 idade =int(input("DIGITE A SUA IDADE:"))
 if idade >=65:
     print("O PACIENTE " + nome + " POSSUI ATENDIMENTO PRIORITÁRIO,POR FAVOR SE DIRIJA A SALA 01")
